@@ -1,5 +1,5 @@
-# To-Do-List Using JavaScript
-In this tutorial, a JavaScript beginner can be able to create a beautiful and functional to do list using JavaScript.
+# To-Do-List
+This is a simple to do list created using Javascript, HTML, CSS
 
 The to-do list has a beautiful UI, the user can add a to-do by filling the input and hit ENTER, after that he can rather check the to-do when it's done, or remove it using the delete button.
 
